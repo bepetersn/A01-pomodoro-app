@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Furthermore, it is my work beginning from the base given in https://github.com/chris-on-code/make-react-apps, A01. 
+In addition to completing the application, there are cypress tests included.
 
 ## Available Scripts
 
